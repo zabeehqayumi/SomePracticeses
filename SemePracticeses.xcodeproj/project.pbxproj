@@ -10,7 +10,7 @@
 		4E7DE363214DE42D000E5C9E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E7DE362214DE42D000E5C9E /* AppDelegate.swift */; };
 		4E7DE365214DE42D000E5C9E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E7DE364214DE42D000E5C9E /* ViewController.swift */; };
 		4E7DE368214DE42D000E5C9E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E7DE366214DE42D000E5C9E /* Main.storyboard */; };
-		4E7DE36B214DE42D000E5C9E /* SemePracticeses.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4E7DE369214DE42D000E5C9E /* SemePracticeses.xcdatamodeld */; };
+		4E7DE36B214DE42D000E5C9E /* Hello.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4E7DE369214DE42D000E5C9E /* Hello.xcdatamodeld */; };
 		4E7DE36D214DE42F000E5C9E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E7DE36C214DE42F000E5C9E /* Assets.xcassets */; };
 		4E7DE370214DE42F000E5C9E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E7DE36E214DE42F000E5C9E /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
@@ -62,7 +62,7 @@
 				4E7DE36C214DE42F000E5C9E /* Assets.xcassets */,
 				4E7DE36E214DE42F000E5C9E /* LaunchScreen.storyboard */,
 				4E7DE371214DE42F000E5C9E /* Info.plist */,
-				4E7DE369214DE42D000E5C9E /* SemePracticeses.xcdatamodeld */,
+				4E7DE369214DE42D000E5C9E /* Hello.xcdatamodeld */,
 			);
 			path = SemePracticeses;
 			sourceTree = "<group>";
@@ -138,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4E7DE36B214DE42D000E5C9E /* SemePracticeses.xcdatamodeld in Sources */,
+				4E7DE36B214DE42D000E5C9E /* Hello.xcdatamodeld in Sources */,
 				4E7DE365214DE42D000E5C9E /* ViewController.swift in Sources */,
 				4E7DE363214DE42D000E5C9E /* AppDelegate.swift in Sources */,
 			);
@@ -338,13 +338,13 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		4E7DE369214DE42D000E5C9E /* SemePracticeses.xcdatamodeld */ = {
+		4E7DE369214DE42D000E5C9E /* Hello.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
 				4E7DE36A214DE42D000E5C9E /* SemePracticeses.xcdatamodel */,
 			);
 			currentVersion = 4E7DE36A214DE42D000E5C9E /* SemePracticeses.xcdatamodel */;
-			path = SemePracticeses.xcdatamodeld;
+			path = Hello.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
